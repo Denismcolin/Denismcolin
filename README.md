@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Crypto and BlockChain
 - 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on AI and BlockChain
-- 📫 How to reach me denismcolin@gmail.com
+- 📫 How to reach me denismcolin
 
 <!---
 Denismcolin/Denismcolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
