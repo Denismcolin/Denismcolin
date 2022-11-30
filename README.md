@@ -2,7 +2,7 @@
 - 👀 #AI #BigData #IoT #VR #AR
 - 🌱 #Solidity #RUST #Go
 - 💞️ #DecAI #DApp #DeFi
-- 📫 denismcolin
+- 📫 #denismcolin
 
 <!---
 Denismcolin/Denismcolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
